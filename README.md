@@ -27,7 +27,7 @@ This is a movie watchlist app built with React Native/Expo and Typescript. It is
 1. Clone the app via github
 
 ```bash
-git clone https://github.com/Franklivania/movie-watchlist-app
+git clone https://github.com/Franklivania/movie-watchlist-app.git
 ```
 
 2. Create an `env.local` at the base of the project
