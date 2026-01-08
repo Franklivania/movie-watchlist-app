@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Iron Man",
+      "Year": "2008",
+      "imdbID": "tt0371746",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: No Way Home",
+      "Year": "2021",
+      "imdbID": "tt10872600",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 3",
+      "Year": "2013",
+      "imdbID": "tt1300854",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man",
+      "Year": "2002",
+      "imdbID": "tt0145487",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Iron Man 2",
+      "Year": "2010",
+      "imdbID": "tt1228705",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Man of Steel",
+      "Year": "2013",
+      "imdbID": "tt0770828",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Homecoming",
+      "Year": "2017",
+      "imdbID": "tt2250912",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man 2",
+      "Year": "2004",
+      "imdbID": "tt0316654",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Ant-Man",
+      "Year": "2015",
+      "imdbID": "tt0478970",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Spider-Man: Into the Spider-Verse",
+      "Year": "2018",
+      "imdbID": "tt4633694",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "15173",
+  "Response": "True"
+}
