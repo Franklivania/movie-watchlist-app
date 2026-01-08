@@ -3,12 +3,12 @@
 This is a movie watchlist app built with React Native/Expo and Typescript. It is built so that users can view, search and manage movies on their watchlists.
 
 ### Tech Stack
-**React Native**: UI Library
-**Expo**: Framework
-**Zustand**: State manager
-**Async Storage**: Phone State manager
-**Lucide React Native**: Icons manager
-**Stylesheet**: Styles manager
+- **React Native**: UI Library
+- **Expo**: Framework
+- **Zustand**: State manager
+- **Async Storage**: Phone State manager
+- **Lucide React Native**: Icons manager
+- **Stylesheet**: Styles manager
 
 ### Functionalities
 - Pull to refresh
